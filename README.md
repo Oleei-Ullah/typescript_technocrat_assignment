@@ -1,5 +1,5 @@
 
-# 🔍 Differences between interface and type alias.
+<h1 align='center'>🔍 Differences between interface and type alias.</h1>
 
 Interface and type alias both are used to define types in typescript to give a hastle free experience. They help to write reusable and flexible type for any project like large or small. Despit of being used for type define they have some subtle differences also in their use case and behave.
 
